@@ -1,2 +1,2 @@
 # boston-housing
-House Prediction using Scikit-Learn inbuilt Boston Housing Dataset.
+House Prediction using inbuilt Scikit-Learn Boston Housing Dataset.
